@@ -49,4 +49,4 @@ jobs:
         run: ls -R
 
       - name: Exibir conteúdo do relatório
-        run: cat saida_build/relatorio1.txt
+        run: cat meus-relatorios-oficiais/saida_build/relatorio1.txt
